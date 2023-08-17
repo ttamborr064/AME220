@@ -1,4 +1,4 @@
 # AME220
 
-Full name: Timothy Johnathan Tamborrino__
-ASU ID: 1218994413__
+Full name: Timothy Johnathan Tamborrino <br />
+ASU ID: 1218994413 <br />
